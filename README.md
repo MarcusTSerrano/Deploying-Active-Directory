@@ -51,22 +51,22 @@ Select Add roles and features
 
 ![image](https://github.com/user-attachments/assets/8e31841b-5980-4302-94ba-f936975af894)
 
-![image](https://github.com/user-attachments/assets/9d340ed5-af54-4541-bdad-27a57527c4c3)
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/66420aa8-0dbb-46d9-838d-97d1c0f010b0)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Install Active Directory Domain Services, be sure not to restart
 </p>
 
+![image](https://github.com/user-attachments/assets/4a634a7a-ea69-4d0d-9c79-2a3f7330d2a9)
 
+![image](https://github.com/user-attachments/assets/33c3908f-3211-4750-a5ae-734bab35c869)
+
+![image](https://github.com/user-attachments/assets/0e93ee04-8e38-481e-8c78-1496fd60ba8a)
+
+![image](https://github.com/user-attachments/assets/ebc882c3-e74a-4e1e-bfee-1e31b05d11e6)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Promote this server to a DC: Setup a new forest as mydomain.com 
 </p>
 
 
