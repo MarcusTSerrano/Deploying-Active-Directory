@@ -121,9 +121,13 @@ Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_a
 
 <h2>Join Client-1 to your domain (mydomain.com)</h2>
 
+![image](https://github.com/user-attachments/assets/cdcd11ad-8832-4f0f-ac90-ed055a66f17c)
 
+![image](https://github.com/user-attachments/assets/b380f5bf-bd77-4e08-a0bf-f2bd08857695)
 
+![image](https://github.com/user-attachments/assets/5ab2eb46-a84d-42b9-9b22-9acf885f500f)
 
+![image](https://github.com/user-attachments/assets/ffee31a6-d495-4a58-adb2-a638f6b389a0)
 
 
 
@@ -134,7 +138,7 @@ Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_a
 
 
 <p>
-Lorem ipsum dolor sit amet, 
+Login to Client-1 as the original local admin (labuser) and join it to the domain (computer will restart)
 </p>
 
 
