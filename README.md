@@ -87,6 +87,8 @@ Restart and then log back into DC-1 as user: mydomain.com\labuser
 In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
 </p>
 
+![image](https://github.com/user-attachments/assets/24987cd7-2a0d-454a-a5e7-48fa58333d48)
+
 ![image](https://github.com/user-attachments/assets/07b1d382-30ca-4f23-a646-47cd16fa92d1)
 
 <p>
@@ -129,23 +131,18 @@ Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_a
 
 ![image](https://github.com/user-attachments/assets/ffee31a6-d495-4a58-adb2-a638f6b389a0)
 
-
-
-
-
-
-
-
-
 <p>
 Login to Client-1 as the original local admin (labuser) and join it to the domain (computer will restart)
 </p>
 
+![image](https://github.com/user-attachments/assets/5ecf3e80-3877-4ef3-83dd-768c58ed5922)
 
+![image](https://github.com/user-attachments/assets/741845c0-49df-4fc2-9f65-bbac0beaf8e7)
 
+![image](https://github.com/user-attachments/assets/ab7ba717-d648-4017-93f2-e21ab0de12d4)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Login to the Domain Controller and verify Client-1 shows up in ADUC
 </p>
 
 
