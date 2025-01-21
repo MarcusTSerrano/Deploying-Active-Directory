@@ -25,7 +25,7 @@ This tutorial outlines the preperation of on-premises Active Directory within Az
 - Part 2 Create a Domain Admin user within the domain
 - Part 3 Join Client-1 to your domain (mydomain.com)
 
-<h2>Part 1 Install Active Directory</h2>
+<h2>Install Active Directory</h2>
 
 ![image](https://github.com/user-attachments/assets/222c874b-91e7-4ae3-9b96-ae176fdfb1a9)
 
@@ -69,47 +69,66 @@ Install Active Directory Domain Services, be sure not to restart
 Promote this server to a DC: Setup a new forest as mydomain.com 
 </p>
 
-
-
-
-<p>
-Lorem ipsum dolor sit amet, 
-</p>
-
-
-
+![image](https://github.com/user-attachments/assets/635ddb03-98bf-4cd4-9760-fadc54cffe04)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Restart and then log back into DC-1 as user: mydomain.com\labuser
 </p>
 
+<h2>Create a Domain Admin user within the domain</h2>
 
+![image](https://github.com/user-attachments/assets/3cd72611-c3c9-4198-9c2c-9b4c6c56c748)
 
+![image](https://github.com/user-attachments/assets/24987cd7-2a0d-454a-a5e7-48fa58333d48)
+
+![image](https://github.com/user-attachments/assets/aa2cd9ce-35d0-40ec-b709-908960bb6098)
 
 <p>
-Lorem ipsum dolor sit amet, 
+In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
 </p>
 
-
-
+![image](https://github.com/user-attachments/assets/07b1d382-30ca-4f23-a646-47cd16fa92d1)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a new OU named “_ADMINS”
 </p>
 
+![image](https://github.com/user-attachments/assets/eabd1741-c15a-42d3-b1d7-386c6f7ff9c3)
 
+![image](https://github.com/user-attachments/assets/fa119d36-c65b-43a3-90f2-b2b035ed5eaa)
 
+![image](https://github.com/user-attachments/assets/b69ec729-0267-4e45-b099-17833f448d30)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a new employee named “Jane Doe”
 </p>
 
+![image](https://github.com/user-attachments/assets/38d1ab94-fe36-4494-a54f-53192e2370e5)
 
+![image](https://github.com/user-attachments/assets/0b979c64-f839-4064-bece-b831bb610e01)
 
+![image](https://github.com/user-attachments/assets/79736c28-12f3-4f8f-bca2-4ec98d9412e2)
 
 <p>
-Lorem ipsum dolor sit amet, 
+Add jane_admin to the “Domain Admins” Security Group
 </p>
+
+![image](https://github.com/user-attachments/assets/486aadf0-79a3-4747-853d-b9046e598b98)
+
+<p>
+Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_admin”
+</p>
+
+<h2>Join Client-1 to your domain (mydomain.com)</h2>
+
+
+
+
+
+
+
+
+
 
 
 
