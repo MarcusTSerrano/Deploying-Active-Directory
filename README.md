@@ -145,60 +145,11 @@ Login to Client-1 as the original local admin (labuser) and join it to the domai
 Login to the Domain Controller and verify Client-1 shows up in ADUC
 </p>
 
+![image](https://github.com/user-attachments/assets/e420c77e-9ee0-4a56-8f2b-1ee03d68f9f1)
 
+![image](https://github.com/user-attachments/assets/28a12454-1768-4bac-94fb-7c0cd2578e43)
 
 
 <p>
-Lorem ipsum dolor sit amet, 
+Create a new OU named “_CLIENTS” and drag Client-1 into it
 </p>
-
-
-
-
-<p>
-Lorem ipsum dolor sit amet, 
-</p>
-
-
-
-
-<p>
-Lorem ipsum dolor sit amet, 
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, 
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, 
-</p>
-<br />
