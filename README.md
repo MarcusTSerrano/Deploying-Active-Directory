@@ -5,7 +5,7 @@
 </p>
 
 <h1>Deploying Active Directory</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the preperation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,10 +21,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 Install Active Directory
+- Step 2 Create a Domain Admin user within the domain
+- Step 3 Join Client-1 to your domain (mydomain.com)
 
 <h2>Deployment and Configuration Steps</h2>
 
